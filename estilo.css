@@ -1,0 +1,21 @@
+body {
+    background-image: url('image.png'); 
+    background-size: cover; 
+    background-position: center;
+}
+.accordion-container {
+    margin: 50px auto; 
+    padding: 20px; 
+    background-color: darkgreen; 
+    border-radius: 8px; 
+    max-width: 600px; 
+}
+.titulo{
+    background-color: #4CAF50; 
+    color: rgb(253, 253, 253); 
+    padding: 1px; 
+    text-align: center; 
+    border-radius: 10px; 
+    display: inline-block;
+    
+}

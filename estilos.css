@@ -1,0 +1,25 @@
+body {
+    background-image: url('imagenes paisajes/naturaleza.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.col {
+    margin-bottom: 20px;
+}
+
+.titulo-principal {
+    color: rgb(137, 192, 142);
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    text-decoration: underline;
+}
